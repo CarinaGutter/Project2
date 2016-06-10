@@ -1,0 +1,1 @@
+The project is represented by a windows form application using c# and it lists all the movies from a specified path, given in the code. 
